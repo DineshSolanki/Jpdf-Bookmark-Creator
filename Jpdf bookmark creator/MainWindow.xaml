@@ -1,0 +1,27 @@
+﻿<Window x:Class="Jpdfbookmarkcreator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Jpdfbookmarkcreator"
+        mc:Ignorable="d"
+        Title="jPDF Bookmark Creator" Height="524" Width="891" UseLayoutRounding="True" >
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" Height="19">
+            <Menu.Items>
+                <MenuItem Header="File">
+                    <MenuItem Header="Open" Click="MenuItem_Click"></MenuItem>
+                    <MenuItem Header="Save As" Click="MenuItem_Click_1"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Help" >
+                    <MenuItem Header="About"/>
+                </MenuItem>
+            </Menu.Items>
+        </Menu>
+        <DockPanel>
+            <Button DockPanel.Dock="Bottom" Content="Convert" Height="77" FontFamily="Palatino Linotype" FontSize="22" FontStyle="Normal" Click="Button_Click"/>
+            <TextBox x:Name="textbox1" AcceptsReturn="True"/>
+            
+        </DockPanel>
+    </DockPanel>
+</Window>
