@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.0</TargetFramework>
-    <RootNamespace>Jpdf_bookmark_creator</RootNamespace>
+    <RootNamespace>boomark_creator4jPDF</RootNamespace>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 

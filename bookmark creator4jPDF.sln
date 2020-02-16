@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jpdf bookmark creator", "Jpdf bookmark creator\Jpdf bookmark creator.csproj", "{A5AAABA7-6AF6-4F4F-A939-DD3D073FD45C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bookmark creator4jPDF", "bookmark creator4jPDF\bookmark creator4jPDF.csproj", "{A5AAABA7-6AF6-4F4F-A939-DD3D073FD45C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jPDF bookmark Creator (CLI)", "jPDF bookmark Creator (CLI)\jPDF bookmark Creator (CLI).csproj", "{9A0F905F-CFEC-4FEA-BBF5-AEF6C75D72A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bookmark creator4jPDF (CLI)", "bookmark creator4jPDF (CLI)\bookmark creator4jPDF (CLI).csproj", "{9A0F905F-CFEC-4FEA-BBF5-AEF6C75D72A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

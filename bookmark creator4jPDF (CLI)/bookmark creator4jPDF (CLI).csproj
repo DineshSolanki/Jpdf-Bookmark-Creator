@@ -3,9 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>jPDF_bookmark_Creator__CLI_</RootNamespace>
+    <RootNamespace>bookmark_creator4jPDF__CLI_</RootNamespace>
     <LangVersion>latest</LangVersion>
-    <AssemblyName>BookmarkCreator</AssemblyName>
+    <AssemblyName>Bookmark_creator4jPDF</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
