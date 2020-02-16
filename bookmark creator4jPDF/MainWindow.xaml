@@ -1,11 +1,11 @@
-﻿<Window x:Class="Jpdfbookmarkcreator.MainWindow"
+﻿<Window x:Class="bookmarkCreator4jPDF.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Jpdfbookmarkcreator"
+        xmlns:local="clr-namespace:bookmarkCreator4jPDF"
         mc:Ignorable="d"
-        Title="jPDF Bookmark Creator" Height="524" Width="891" UseLayoutRounding="True" >
+        Title="Bookmark creator4jPDF" Height="524" Width="891" UseLayoutRounding="True" >
     <DockPanel>
         <Menu DockPanel.Dock="Top" Height="19">
             <Menu.Items>
