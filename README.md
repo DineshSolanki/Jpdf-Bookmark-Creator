@@ -5,6 +5,8 @@ This Program converts TOC( Table of contents) into a format that jPDF accepts fo
 <details>
   <summary>Screens (Click here to see) </summary>
 <img src="https://i.imgur.com/rsBEUwj.gif" width="600" height="400">
+<img src="https://i.imgur.com/1FcMGRM.gif" width="600" height="400">
+<img src="https://i.imgur.com/hcvpDcE.gif" width="600" height="400">
 </details>
 
 ### Prerequisites
