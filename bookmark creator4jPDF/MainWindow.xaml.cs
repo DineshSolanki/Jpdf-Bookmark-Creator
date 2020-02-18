@@ -58,10 +58,7 @@ namespace bookmarkCreator4jPDF
                 foreach (Match match in matches)
                 {
                     GroupCollection groups = match.Groups;
-                    finalBookmarkText += groups[1].Value + "\\" + (int.Parse(groups[2].Value) + st) + "\n";
-                    Trace.WriteLine(
-                                      groups[1].Value + "\\" +
-                                      groups[2].Value);
+                    finalBookmarkText += groups[1].Value + "/" + (int.Parse(groups[2].Value) + st) + "\n";
                 }
             }
             catch (FormatException ex)
@@ -71,7 +68,6 @@ namespace bookmarkCreator4jPDF
                 //    "Make sure you enter the text in correct format");
             }
             textbox1.Text = finalBookmarkText;
-            MessageBox.Show(finalBookmarkText);
         }
 
         private void MenuItem_Click(object sender, RoutedEventArgs e)

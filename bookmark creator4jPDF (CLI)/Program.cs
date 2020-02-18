@@ -42,7 +42,7 @@ namespace jPDF_bookmark_Creator__CLI_
                 foreach (Match match in matches)
                 {
                     GroupCollection groups = match.Groups;
-                    finalBookmarkText += groups[1].Value + "\\" + (int.Parse(groups[2].Value) + st) + "\n";
+                    finalBookmarkText += groups[1].Value + "/" + (int.Parse(groups[2].Value) + st) + "\n";
                 }
             }
             catch (FormatException ex)
