@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/commits-since/DineshSolanki/Folicon/latest"> <img src="https://img.shields.io/github/downloads/DineshSolanki/bookmark-creator4jPDF/total"> <img src="https://img.shields.io/github/issues-raw/DineshSolanki/bookmark-creator4jPDF"> <img src="https://img.shields.io/github/v/release/DineshSolanki/bookmark-creator4jPDF">
+<img src="https://img.shields.io/github/commits-since/DineshSolanki/bookmark-creator4jPDF/latest"> <img src="https://img.shields.io/github/downloads/DineshSolanki/bookmark-creator4jPDF/total"> <img src="https://img.shields.io/github/issues-raw/DineshSolanki/bookmark-creator4jPDF"> <img src="https://img.shields.io/github/v/release/DineshSolanki/bookmark-creator4jPDF">
 
 # bookmark-creator4jPDF
 This Program converts TOC( Table of contents) into a format that jPDF accepts for bookmark creation, then the converted text file can be imported into jPDF to automatically create PDF bookmarks.
